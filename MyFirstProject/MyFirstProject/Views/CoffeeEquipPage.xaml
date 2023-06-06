@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="MyFirstProject.Views.CoffeeEquipPage"
+             xmlns:viewmodels ="clr-namespace:MyFirstProject.ViewModels"
+             x:DataType="viewmodels:CoffeeEquipViewModel"
+             BackgroundColor="White">
+    <ContentPage.BindingContext>
+        <viewmodels:CoffeeEquipViewModel/>
+    </ContentPage.BindingContext>
+ 
+        <StackLayout>
+        <Entry Text="{Binding CountDisplay}"/>
+        <Label 
+                Text= "{Binding CountDisplay}"
+                VerticalOptions="CenterAndExpand" 
+                HorizontalOptions="CenterAndExpand"
+                TextColor="Black"/>
+            <Button
+                Text="Click Me" 
+                BackgroundColor="Black"
+                Command="{Binding IncreaseCount}"
+                >
+                
+            </Button>
+        </StackLayout>
+   
+</ContentPage>

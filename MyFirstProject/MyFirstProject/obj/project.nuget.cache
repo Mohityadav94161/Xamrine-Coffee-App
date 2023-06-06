@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "HYJY4XCEgqXyTncfh+mughQHSn4KHXq4XAx6t+9JgrkJsrgU79H6Ufhjb+eRw2iAqqUab0k9cOKapUJa+pBgDA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\mohitku4\\source\\repos\\MyFirstProject\\MyFirstProject\\MyFirstProject\\MyFirstProject.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mohitku4\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\mohitku4\\.nuget\\packages\\microsoft.research.sealnet\\4.1.1\\microsoft.research.sealnet.4.1.1.nupkg.sha512",
+    "C:\\Users\\mohitku4\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\mohitku4\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\mohitku4\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",
+    "C:\\Users\\mohitku4\\.nuget\\packages\\xamarin.forms\\5.0.0.2196\\xamarin.forms.5.0.0.2196.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "OhemfYtf2wO2IhkscFrrh3VvzjbR2hFG/nYN62n8GCJug59mifeCsGWHgoxpQ3mAa+Y25E3b5voevsTuoULlDg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\mohitku4\\source\\repos\\MyFirstProject\\MyFirstProject\\MyFirstProject.iOS\\MyFirstProject.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mohitku4\\.nuget\\packages\\microsoft.research.sealnet\\4.1.1\\microsoft.research.sealnet.4.1.1.nupkg.sha512",
+    "C:\\Users\\mohitku4\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\mohitku4\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",
+    "C:\\Users\\mohitku4\\.nuget\\packages\\xamarin.forms\\5.0.0.2196\\xamarin.forms.5.0.0.2196.nupkg.sha512"
+  ],
+  "logs": []
+}

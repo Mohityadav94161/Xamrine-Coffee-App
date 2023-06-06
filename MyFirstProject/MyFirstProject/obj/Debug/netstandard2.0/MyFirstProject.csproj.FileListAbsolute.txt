@@ -1,0 +1,17 @@
+C:\Users\mohitku4\source\repos\MyFirstProject\MyFirstProject\MyFirstProject\bin\Debug\netstandard2.0\MyFirstProject.deps.json
+C:\Users\mohitku4\source\repos\MyFirstProject\MyFirstProject\MyFirstProject\bin\Debug\netstandard2.0\MyFirstProject.dll
+C:\Users\mohitku4\source\repos\MyFirstProject\MyFirstProject\MyFirstProject\bin\Debug\netstandard2.0\ref\MyFirstProject.dll
+C:\Users\mohitku4\source\repos\MyFirstProject\MyFirstProject\MyFirstProject\bin\Debug\netstandard2.0\MyFirstProject.pdb
+C:\Users\mohitku4\source\repos\MyFirstProject\MyFirstProject\MyFirstProject\obj\Debug\netstandard2.0\MyFirstProject.csproj.AssemblyReference.cache
+C:\Users\mohitku4\source\repos\MyFirstProject\MyFirstProject\MyFirstProject\obj\Debug\netstandard2.0\MyFirstProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mohitku4\source\repos\MyFirstProject\MyFirstProject\MyFirstProject\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\mohitku4\source\repos\MyFirstProject\MyFirstProject\MyFirstProject\obj\Debug\netstandard2.0\AppShell.xaml.g.cs
+C:\Users\mohitku4\source\repos\MyFirstProject\MyFirstProject\MyFirstProject\obj\Debug\netstandard2.0\MyFirstProject.AssemblyInfoInputs.cache
+C:\Users\mohitku4\source\repos\MyFirstProject\MyFirstProject\MyFirstProject\obj\Debug\netstandard2.0\MyFirstProject.AssemblyInfo.cs
+C:\Users\mohitku4\source\repos\MyFirstProject\MyFirstProject\MyFirstProject\obj\Debug\netstandard2.0\MyFirstProject.csproj.CoreCompileInputs.cache
+C:\Users\mohitku4\source\repos\MyFirstProject\MyFirstProject\MyFirstProject\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\mohitku4\source\repos\MyFirstProject\MyFirstProject\MyFirstProject\obj\Debug\netstandard2.0\MyFirstProject.dll
+C:\Users\mohitku4\source\repos\MyFirstProject\MyFirstProject\MyFirstProject\obj\Debug\netstandard2.0\refint\MyFirstProject.dll
+C:\Users\mohitku4\source\repos\MyFirstProject\MyFirstProject\MyFirstProject\obj\Debug\netstandard2.0\MyFirstProject.pdb
+C:\Users\mohitku4\source\repos\MyFirstProject\MyFirstProject\MyFirstProject\obj\Debug\netstandard2.0\Views\CoffeeEquipPage.xaml.g.cs
+C:\Users\mohitku4\source\repos\MyFirstProject\MyFirstProject\MyFirstProject\bin\Debug\netstandard2.0\sealc.dll
